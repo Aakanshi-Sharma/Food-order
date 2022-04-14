@@ -14,8 +14,6 @@
 
 ## Demo
 
-## Links
-
 ## My Process
 
 ### Build with
