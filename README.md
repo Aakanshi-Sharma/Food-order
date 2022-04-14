@@ -5,7 +5,7 @@
   * [Link](#link)
 * [My Process](#my-process)
   * [Built with](#built-with)
-* [Author](#author)
+* [Set-up](#set-up)
 
 
 ## Overview
@@ -21,3 +21,15 @@
 ### Build with
 
 -React
+
+##Set-up
+
+To run this project, install it locally using npm:
+
+```
+$ cd food-order
+$ npm install
+$ npm start
+
+```
+
