@@ -5,7 +5,7 @@
   * [Link](#link)
 * [My Process](#my-process)
   * [Built with](#built-with)
-* [Set-up](#set-up)
+* [Setup](#set-up)
 
 
 ## Overview
@@ -22,7 +22,7 @@
 
 * React
 
-##Set-up
+## Setup
 
 To run this project, install it locally using npm:
 
